@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&width=500&lines=Hi+I+am+MUHAMMAD+ABDULLAH+AMIR;AI+Engineer+in+Making" alt="Typing SVG" />
-</p>
-<!--
-**A-bdullahamirr/A-bdullahamirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://readme-typing-svg.demolab.com/demo/?weight=600&size=24&color=0FD4DB&background=13FFFF00&vCenter=true&lines=Hi+I+am+MUHAMMAD+ABDULLAH.;AI+Engineer+in+Making.;%D8%A5%D9%86+%D8%B4%D8%A7%D8%A1+%D8%A7%D9%84%D9%84%D9%87
 
 Here are some ideas to get you started:
 
