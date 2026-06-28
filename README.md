@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&width=500&lines=Hi+I+am+Abdullah;AI+Engineer+in+making" alt="Typing SVG" />
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+MUHAMMAD+ABDULLAH+AMIR)](https://git.io/typing-svg)
 <!--
 **A-bdullahamirr/A-bdullahamirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
